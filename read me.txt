@@ -1,0 +1,9 @@
+I made this simple bot to send a post from a channel to a group
+The bot is very simple, but I want to improve it in the future
+
+just insert your information in the this field:
+'your_api_id'
+'your_api_hash'
+'your bot API token'
+'@my_group'
+'@my_channel'
